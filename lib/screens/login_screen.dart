@@ -1,8 +1,8 @@
 // ignore_for_file: camel_case_types
 
-import 'package:auth/cubit/login_cubit.dart';
-import 'package:auth/screens/success_screen.dart';
-import 'package:auth/screens/widgets/input_decoration.dart';
+import 'package:login_cubit_simple/cubit/login_cubit.dart';
+import 'package:login_cubit_simple/screens/success_screen.dart';
+import 'package:login_cubit_simple/screens/widgets/input_decoration.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

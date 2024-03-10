@@ -1,4 +1,4 @@
-import 'package:auth/datasources/login_data_source.dart';
+import 'package:login_cubit_simple/datasources/login_data_source.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

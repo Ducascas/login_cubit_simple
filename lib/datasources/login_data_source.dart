@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:auth/core/api_links.dart';
+import 'package:login_cubit_simple/core/api_links.dart';
 import 'package:http/http.dart' as http;
 
 class LoginDataSource {
